@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.salem.lap.assignment.retailsite.entity;
+package com.vikram.assignment.retailsite.entity;
 
 
 public class User {

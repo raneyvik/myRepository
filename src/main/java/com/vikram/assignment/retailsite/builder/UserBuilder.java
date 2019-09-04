@@ -1,12 +1,12 @@
 /**
  * 
  */
-package com.salem.lap.assignment.retailsite.builder;
+package com.vikram.assignment.retailsite.builder;
 
 import org.springframework.stereotype.Component;
 
-import com.salem.lap.assignment.retailsite.entity.User;
-import com.salem.lap.assignment.retailsite.entity.UserType;
+import com.vikram.assignment.retailsite.entity.User;
+import com.vikram.assignment.retailsite.entity.UserType;
 
 @Component
 public class UserBuilder {

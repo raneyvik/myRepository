@@ -1,14 +1,14 @@
 /**
  * 
  */
-package com.salem.lap.assignment.retailsite.builder;
+package com.vikram.assignment.retailsite.builder;
 
 import java.util.List;
 
-import com.salem.lap.assignment.retailsite.entity.Bill;
-import com.salem.lap.assignment.retailsite.entity.ShoppingItem;
-import com.salem.lap.assignment.retailsite.entity.ShoppingItemCategory;
-import com.salem.lap.assignment.retailsite.entity.User;
+import com.vikram.assignment.retailsite.entity.Bill;
+import com.vikram.assignment.retailsite.entity.ShoppingItem;
+import com.vikram.assignment.retailsite.entity.ShoppingItemCategory;
+import com.vikram.assignment.retailsite.entity.User;
 
 public class RetailSiteBill implements BillOperations {
 

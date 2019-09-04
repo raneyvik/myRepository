@@ -1,4 +1,4 @@
-package com.salem.lap.assignment.retailsite;
+package com.vikram.assignment.retailsite;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

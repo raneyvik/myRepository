@@ -1,4 +1,4 @@
-package com.salem.lap.assignment.retailsite;
+package com.vikram.assignment.retailsite;
 
 import static org.junit.Assert.assertEquals;
 
@@ -14,13 +14,14 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.salem.lap.assignment.retailsite.builder.BillBuilder;
-import com.salem.lap.assignment.retailsite.builder.RetailSiteBill;
-import com.salem.lap.assignment.retailsite.builder.UserBuilder;
-import com.salem.lap.assignment.retailsite.entity.Bill;
-import com.salem.lap.assignment.retailsite.entity.ShoppingItem;
-import com.salem.lap.assignment.retailsite.entity.ShoppingItemCategory;
-import com.salem.lap.assignment.retailsite.entity.UserType;
+import com.vikram.assignment.retailsite.RetailSiteApplication;
+import com.vikram.assignment.retailsite.builder.BillBuilder;
+import com.vikram.assignment.retailsite.builder.RetailSiteBill;
+import com.vikram.assignment.retailsite.builder.UserBuilder;
+import com.vikram.assignment.retailsite.entity.Bill;
+import com.vikram.assignment.retailsite.entity.ShoppingItem;
+import com.vikram.assignment.retailsite.entity.ShoppingItemCategory;
+import com.vikram.assignment.retailsite.entity.UserType;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
