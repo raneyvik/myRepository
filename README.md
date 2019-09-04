@@ -1,4 +1,4 @@
-This project is a simple spring boot application applying Retail Store Discounts which are as the following
+This project is a simple spring boot application applying Retail Store Discounts which are provided below:
 
 1.If the user is an employee of the store, he gets a 30% discount
 2.If the user is an affiliate of the store, he gets a 10% discount
